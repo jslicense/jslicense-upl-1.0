@@ -1,0 +1,15 @@
+{
+  "name": "jslicense-upl-1.0",
+  "description": "the Universal Public License, Version 1.0 in jslicense format",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
+  "homepage": "https://jslicense.github.io",
+  "keywords": [
+    "UPL",
+    "UPL-1.0",
+    "jslicense",
+    "license"
+  ],
+  "license": "Apache-2.0",
+  "repository": "jslicense/jslicense-upl-1.0"
+}
